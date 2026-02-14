@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://profit-2aec17b9.zappy5.app/sitemap.xml

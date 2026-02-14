@@ -1,0 +1,53 @@
+# בדיקת רווחיות למסעדות- profit — Generative Engine Optimization Map
+
+> A תוכנה לניהול מסעדות business.
+
+---
+
+## Pages
+
+### בית
+https://profit-2aec17b9.zappy5.app
+
+### מוצר
+https://profit-2aec17b9.zappy5.app/product
+
+### תמחור
+https://profit-2aec17b9.zappy5.app/pricing
+
+### צור קשר
+https://profit-2aec17b9.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://profit-2aec17b9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://profit-2aec17b9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://profit-2aec17b9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About בדיקת רווחיות למסעדות- profit
+בדיקת רווחיות למסעדות- profit is a business in the תוכנה לניהול מסעדות industry.
+
+## Target Audience
+בעלי מסעדות, פיצריות, מזון מהיר ובתי קפה בישראל
+
+## Industry
+תוכנה לניהול מסעדות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://profit-2aec17b9.zappy5.app/sitemap.xml
+- **Robots.txt**: https://profit-2aec17b9.zappy5.app/robots.txt
